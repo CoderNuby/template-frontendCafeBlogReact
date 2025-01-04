@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/template-frontendCafeBlogReact/static/css/main.830d8e2c.css",
+    "main.js": "/template-frontendCafeBlogReact/static/js/main.e3e0b3e8.js",
+    "static/js/488.9036100c.chunk.js": "/template-frontendCafeBlogReact/static/js/488.9036100c.chunk.js",
+    "static/media/blog3.jpg": "/template-frontendCafeBlogReact/static/media/blog3.ef09b7bd544936af14f0.jpg",
+    "static/media/contacto.jpg": "/template-frontendCafeBlogReact/static/media/contacto.7f5b500d2604f1af8383.jpg",
+    "static/media/blog1.jpg": "/template-frontendCafeBlogReact/static/media/blog1.7155a15970acc840a56e.jpg",
+    "static/media/nosotros.jpg": "/template-frontendCafeBlogReact/static/media/nosotros.d2ee07a471c778a008b8.jpg",
+    "static/media/blog2.jpg": "/template-frontendCafeBlogReact/static/media/blog2.3f2f94b38bc072af6887.jpg",
+    "static/media/curso1.jpg": "/template-frontendCafeBlogReact/static/media/curso1.79127393c2a686522952.jpg",
+    "static/media/curso3.jpg": "/template-frontendCafeBlogReact/static/media/curso3.a01c53c43d17fd9c650a.jpg",
+    "static/media/banner.jpg": "/template-frontendCafeBlogReact/static/media/banner.503c99fc93a10fb02dd4.jpg",
+    "static/media/curso2.jpg": "/template-frontendCafeBlogReact/static/media/curso2.2a5492d560d0baad2af2.jpg",
+    "index.html": "/template-frontendCafeBlogReact/index.html",
+    "main.830d8e2c.css.map": "/template-frontendCafeBlogReact/static/css/main.830d8e2c.css.map",
+    "main.e3e0b3e8.js.map": "/template-frontendCafeBlogReact/static/js/main.e3e0b3e8.js.map",
+    "488.9036100c.chunk.js.map": "/template-frontendCafeBlogReact/static/js/488.9036100c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830d8e2c.css",
+    "static/js/main.e3e0b3e8.js"
+  ]
+}
